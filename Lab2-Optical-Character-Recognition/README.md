@@ -13,14 +13,13 @@
 ## Results
 - From left to right: Original Image, Matched Spatial Filter Image
 <p float="left">
-  <img src="https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab2-Optical-Character-Recognition/2-Parenthood-Image.PNG" width="300" />
-  <img src="https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab2-Optical-Character-Recognition/3-MSF-Image.PNG" width="300" />
+  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab2-Optical-Character-Recognition/parenthood.PNG" width="300" />
+  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab2-Optical-Character-Recognition/msf.png" width="300" />
 </p>
 
 - Receiver Operator Characteristic Curve 
 <p float="left">
-  <img src="https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab2-Optical-Character-Recognition/1-ROC-Curve-Full-Threshold.PNG" width="375" />
-  <img src="https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab2-Optical-Character-Recognition/1-ROC-Curve.PNG" width="375" />
+  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab2-Optical-Character-Recognition/ROC%20curve.png" width="375" />
 </p>
 
 ## Instructions

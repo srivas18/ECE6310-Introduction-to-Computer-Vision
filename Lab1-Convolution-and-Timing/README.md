@@ -11,17 +11,17 @@
 ## Results 
 - Original Image
 <p float="left">
-  <img src="https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab1-Convolution-and-Timing/Bridge.PNG" width="310" />
+  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab1-Convolution-and-Timing/bridge.PNG" width="310" />
 </p>
 
 - From left to right: 2D Convolution, 1D Separable, 1D Seprabale-Sliding
 <p float="left">
-  <img src="https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab1-Convolution-and-Timing/2d-convolution.PNG" width="250" />
-  <img src="https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab1-Convolution-and-Timing/1d-separable.png" width="250" />
-  <img src="https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab1-Convolution-and-Timing/1d-sliding.png" width="250" />
+  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab1-Convolution-and-Timing/smoothed7.png" width="250" />
+  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab1-Convolution-and-Timing/separ.png" width="250" />
+  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab1-Convolution-and-Timing/slide.png" width="250" />
 </p>
 
-![](https://github.com/anaskhan496/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab1-Convolution-and-Timing/Time-Comparison.PNG)
+![](https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab1-Convolution-and-Timing/time.PNG)
 
 ## Instructions
 Compile the code (same instructions for 'Ubuntu' and 'Linux')
