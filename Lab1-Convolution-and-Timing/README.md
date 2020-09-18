@@ -21,6 +21,7 @@
   <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab1-Convolution-and-Timing/slide.png" width="250" />
 </p>
 
+- Computational time comparison
 ![](https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab1-Convolution-and-Timing/time.PNG)
 
 ## Instructions
