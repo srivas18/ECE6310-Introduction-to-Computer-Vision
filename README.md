@@ -1,4 +1,4 @@
-# ECE6310-Introduction-to-Computer-Vision
+# [ECE6310-Introduction-to-Computer-Vision](http://cecas.clemson.edu/~ahoover/ece431/)
 Assignments of the Computer Vision course currently being offered in Fall 2020 at Clemson University
 
 # Course Modules
