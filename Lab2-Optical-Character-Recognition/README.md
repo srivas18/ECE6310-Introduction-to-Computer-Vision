@@ -27,4 +27,4 @@ Compile the code (same instructions for 'Ubuntu' and 'Linux')
  
 `gcc -o insert_executable_file_name insert_code_file -lm`
 
-`./executable_file_name parenthood.ppm parenthood_e_template.ppm ocr.txt`
+`./executable_file_name`
