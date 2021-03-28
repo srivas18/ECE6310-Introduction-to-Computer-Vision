@@ -12,22 +12,22 @@ In this project, I had to implement a Zhang-Suen thinning algorithm which would 
 
 - Binary image of letter "b"
 <p float="left">
-  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-Thinning%20Algorithm/Images/binary.PNG" width="300" />
+  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-Thinning%20Algorithm/Images/binary.PNG" width="150" />
 </p>
 
 - Thinned image of the letter "b"
 <p float="left">
-  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-Thinning%20Algorithm/Images/thinned.PNG" width="300" />
+  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-Thinning%20Algorithm/Images/thinned.PNG" width="150" />
 </p>
 
 - Branchpoints and Endpoints detected in the thinned image
 <p float="left">
-  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-Thinning%20Algorithm/Images/endpoint_branchpoint.png" width="300" />
+  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-Thinning%20Algorithm/Images/endpoint_branchpoint.png" width="150" />
 </p>
 
 - Receiver Operator Characteristic Curve 
 <p float="left">
-  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-Thinning%20Algorithm/Images/ROC.png" width="375" />
+  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-Thinning%20Algorithm/Images/ROC.png" width="450" />
 </p>
 
 ## Instructions
