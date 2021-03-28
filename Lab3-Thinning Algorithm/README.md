@@ -1,25 +1,33 @@
-# Optical Character Recognition
+# Thinning Algorithm
 
 ## Problem Statement
-- Read the input image, template image, and ground truth files.
-- Calculate the matched-spatial filter (MSF) image
-- Normalize the MSF image to 8-bits.
-- Loop through a range of threshold values
-  - Threshold the normalized MSF image to create a binary image.
-  - Loop through the ground truth locations to check a 9-by-15 area centered at the ground truth and check if any pixel in the MSF image within that window is greater than threshold
-    to consider the letter detected.
-  - Count the detected and undetected letters, and categorize the detections as TP, FP, TN, and FN based on the similarity with the template letter.
+In this project, I had to implement a Zhang-Suen thinning algorithm which would help in weeding out false positives in detecting the letter "e" in the image provided. This is project builds up on the previous one to make the optical character recognition more robust. Please read `lab3.pdf` for more details.
     
 ## Results
 - From left to right: Original Image, Matched Spatial Filter Image
 <p float="left">
-  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab2-Optical-Character-Recognition/parenthood.PNG" width="300" />
-  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab2-Optical-Character-Recognition/msf.png" width="300" />
+  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-Thinning%20Algorithm/Images/parenthood.PNG" width="300" />
+  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-Thinning%20Algorithm/Images/msf.png" width="300" />
+</p>
+
+- Binary image of letter "b"
+<p float="left">
+  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-Thinning%20Algorithm/Images/binary.PNG" width="300" />
+</p>
+
+- Thinned image of the letter "b"
+<p float="left">
+  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-Thinning%20Algorithm/Images/thinned.PNG" width="300" />
+</p>
+
+- Branchpoints and Endpoints detected in the thinned image
+<p float="left">
+  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-Thinning%20Algorithm/Images/endpoint_branchpoint.png" width="300" />
 </p>
 
 - Receiver Operator Characteristic Curve 
 <p float="left">
-  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab2-Optical-Character-Recognition/ROC%20curve.png" width="375" />
+  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-Thinning%20Algorithm/Images/ROC.png" width="375" />
 </p>
 
 ## Instructions
