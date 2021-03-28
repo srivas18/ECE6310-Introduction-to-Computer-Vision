@@ -1,9 +1,0 @@
-﻿cl : Command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
-  main.c
-d:\clemson\3rd semester\computer vision\assignments\assignment 4\lab4\main.c(329): warning C4047: 'function': 'BOOL *' differs in levels of indirection from 'BOOL **'
-d:\clemson\3rd semester\computer vision\assignments\assignment 4\lab4\main.c(329): warning C4024: 'GetDlgItemInt': different types for formal and actual parameter 3
-d:\clemson\3rd semester\computer vision\assignments\assignment 4\lab4\main.c(335): warning C4047: 'function': 'BOOL *' differs in levels of indirection from 'BOOL **'
-d:\clemson\3rd semester\computer vision\assignments\assignment 4\lab4\main.c(335): warning C4024: 'GetDlgItemInt': different types for formal and actual parameter 3
-d:\clemson\3rd semester\computer vision\assignments\assignment 4\lab4\main.c(522): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
-  plus.vcxproj -> D:\Clemson\3rd Semester\Computer Vision\Assignments\Assignment 4\lab4\.\Debug\plus.exe
