@@ -22,26 +22,9 @@ Assignments of the Computer Vision course currently being offered in Fall 2020 a
 
 # Assignments
 ## [Lab 1 Convolution and Timing](https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/tree/master/Lab1-Convolution-and-Timing)
-- Original Image
-<p float="left">
-  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab1-Convolution-and-Timing/bridge.PNG" width="310" />
-</p>
-
-- From left to right: 2D Convolution, 1D Separable, 1D Seprabale-Sliding
-<p float="left">
-  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab1-Convolution-and-Timing/smoothed7.png" width="250" />
-  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab1-Convolution-and-Timing/separ.png" width="250" />
-  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab1-Convolution-and-Timing/slide.png" width="250" />
-</p>
 
 ## [Lab 2 Optical Character Recognition](https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/tree/master/Lab2-Optical-Character-Recognition)
-- From left to right: Original Image, Matched Spatial Filter Image
-<p float="left">
-  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab2-Optical-Character-Recognition/parenthood.PNG" width="300" />
-  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab2-Optical-Character-Recognition/msf.png" width="300" />
-</p>
 
-- Receiver Operator Characteristic Curve 
-<p float="left">
-  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab2-Optical-Character-Recognition/ROC%20curve.png" width="375" />
-</p>
+## [Lab 3 Thinning Algorithm](https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/tree/master/Lab3-Thinning%20Algorithm)
+
+## [Lab 4 Thinning Algorithm](https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/tree/master/Lab4-Region%20Interaction)
