@@ -22,6 +22,8 @@ Some of the salient features of the application are:
   <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab4-Region%20Interaction/result.gif" width="500" />
 </p>
 
+Please read the report `Siddhant_Srivastava_Lab4.pdf` for further details of the project.
+
 ## Instructions
 The folder “lab4” contains the project files for the application. Open MS Visual Studio and load the file `plus.sln` into it to open the project.
 
