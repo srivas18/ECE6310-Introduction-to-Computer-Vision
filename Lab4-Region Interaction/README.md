@@ -1,38 +1,28 @@
-# Thinning Algorithm
+# Interactive Region Growing
 
 ## Problem Statement
-In this project, I had to implement a Zhang-Suen thinning algorithm which would help in weeding out false positives in detecting the letter "e" in the image provided. This is project builds up on the previous one to make the optical character recognition more robust. Please read `lab3.pdf` for more details.
+In this project I implemented interactive region growing by developing a Windows program using the Win32 library. The program allows the user to load and display an image, and demonstrates several GUI and event handling techniques. The program was written using Microsoft Visual Studio 2019.
+
+Please read `lab4.pdf` for more details.
+
+## Implementation
+Some of the salient features of the application are:
+- Entering the values of the predicates the region growing is dependent on, to study its effects.
+- The user can click on any location to visualize the region growing.
+- Multiple region grows can be accomplished at a single time.
+- The user can select the color of the pixels being drawn while region growing.
+- The user can reset the results of a previous region grow.
+- Two modes of region growing:
+    - Auto: The new pixels of a region are drawn every 1 millisecond.
+    - Step: Pixels are drawn in a region every time the user presses the key 'J'. These modes can be switched as per the users liking during the region growing too.
     
 ## Results
-- From left to right: Original Image, Matched Spatial Filter Image
+- Working video of the application
 <p float="left">
-  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-Thinning%20Algorithm/Images/parenthood.PNG" width="300" />
-  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-Thinning%20Algorithm/Images/msf.png" width="300" />
-</p>
-
-- Binary image of letter "b"
-<p float="left">
-  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-Thinning%20Algorithm/Images/binary.PNG" width="150" />
-</p>
-
-- Thinned image of the letter "b"
-<p float="left">
-  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-Thinning%20Algorithm/Images/thinned.PNG" width="150" />
-</p>
-
-- Branchpoints and Endpoints detected in the thinned image
-<p float="left">
-  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-Thinning%20Algorithm/Images/endpoint_branchpoint.png" width="150" />
-</p>
-
-- Receiver Operator Characteristic Curve 
-<p float="left">
-  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab3-Thinning%20Algorithm/Images/ROC.png" width="450" />
+  <img src="https://github.com/srivas18/ECE6310-Introduction-to-Computer-Vision/blob/master/Lab4-Region%20Interaction/result.gif" width="500" />
 </p>
 
 ## Instructions
-Compile the code (same instructions for 'Ubuntu' and 'Linux')
- 
-`gcc -o executable_file_name code_file -lm`
+The folder “lab4” contains the project files for the application. Open MS Visual Studio and load the file `plus.sln` into it to open the project.
 
-`./executable_file_name`
+Now build the solution and run it.
